@@ -89,7 +89,7 @@ searchField.addEventListener("keyup", (e)=>{
         });
     }
     else {
-    table_output.style.display = "none";
+    table_output.style.display = "block";
     appTable.style.display = "block";
     paginationContainer.style.display = "block";
   }

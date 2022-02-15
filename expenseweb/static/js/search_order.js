@@ -1,6 +1,6 @@
 const searchField = document.querySelector('#searchField');
 const table_output = document.querySelector('.table-output');
-table_output.style.display = 'none';
+table_output.style.display = 'block';
 const appTable = document.querySelector(".app-table");
 const paginationContainer = document.querySelector(".pagination-container");
 const noResults = document.querySelector(".no-results");
